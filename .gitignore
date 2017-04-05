@@ -1,0 +1,7 @@
+*.log
+*.tar.*
+
+# makepkg Directories
+pkg/
+src/
+
